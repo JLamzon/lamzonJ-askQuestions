@@ -1,0 +1,15 @@
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/bin/Debug/net6.0/lamzonJ-askQuestions
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/bin/Debug/net6.0/lamzonJ-askQuestions.deps.json
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/bin/Debug/net6.0/lamzonJ-askQuestions.runtimeconfig.json
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/bin/Debug/net6.0/lamzonJ-askQuestions.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/bin/Debug/net6.0/lamzonJ-askQuestions.pdb
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/obj/Debug/net6.0/lamzonJ-askQuestions.csproj.AssemblyReference.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/obj/Debug/net6.0/lamzonJ-askQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/obj/Debug/net6.0/lamzonJ-askQuestions.AssemblyInfoInputs.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/obj/Debug/net6.0/lamzonJ-askQuestions.AssemblyInfo.cs
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/obj/Debug/net6.0/lamzonJ-askQuestions.csproj.CoreCompileInputs.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/obj/Debug/net6.0/lamzonJ-askQuestions.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/obj/Debug/net6.0/refint/lamzonJ-askQuestions.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/obj/Debug/net6.0/lamzonJ-askQuestions.pdb
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/obj/Debug/net6.0/lamzonJ-askQuestions.genruntimeconfig.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-askQuestions/obj/Debug/net6.0/ref/lamzonJ-askQuestions.dll
